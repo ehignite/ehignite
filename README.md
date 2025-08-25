@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehignite
 - 👀 I’m interested in ... a career
-- 🌱 I’m currently learning ... Google Cloud
+- 🌱 I’m currently learning ... Cybersecurity
 - 💞️ I’m looking to collaborate on ... SEO
 - 📫 How to reach me ... 
 
